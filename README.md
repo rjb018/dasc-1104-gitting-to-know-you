@@ -64,7 +64,7 @@ Is your new file tracked or untracked?  What does that mean?
 
 ### 8. Add your file to the git staged files.
 Adding your file to git means that the changes on your file will be tracked as part of the revision history of the project. (For this branch anyway).  You can add your files to git via commandline with `$ git add [your-file-name]` to add specific files, or `$ git add *` to add all files. (Hey look! The wild card *. We've seen that before.)  You can also add your files to staging throught he VS Code git GUI. Click on the + next to the file name to add it to the staged files.  
-<img src="/assets/gui-unstaged-file.png" width="300">
+<img src="/assets/gui-unstaged-file.png" width="300px">
 
 It's staged. That means the changes are saved in git right?  (hint: wrong)
 
